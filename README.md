@@ -1,4 +1,4 @@
 # NaturalLanguageProcessing-NLP
 
 
-![](https://github.com/kevimwe/CAPSTONE/blob/master/driving_conditions.JPG)
+![](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/blob/master/NLP_Pipeline.JPG)
