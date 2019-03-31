@@ -1,1 +1,1 @@
-This directory explores disctance measures
+This directory explores distance measures
