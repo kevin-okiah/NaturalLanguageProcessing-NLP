@@ -1,8 +1,7 @@
 
-## Author: Kevin Okiah
-## NLP :  Lexical Density Analysis and Vocabulary Count.
-## MSDS
-## 01/10/2019
+### Author: Kevin Okiah
+### Lexical Density and Vocabulary Count Analysis
+**01/10/2019**
 
 This notebook is a teaser to Natural Language Processing (NLP). It explores calculation of Lexical density and Vocabulary Count.
 
