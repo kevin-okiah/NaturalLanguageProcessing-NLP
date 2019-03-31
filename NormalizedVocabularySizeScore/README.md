@@ -1,7 +1,7 @@
 
-## Author: Kevin Okiah
-## NLP :  Normalized Vocabulary Size Score and Text difficulty score.
-## 02/07/2019
+## Normalized Vocabulary Size Score and Text difficulty score.
+### Author: Kevin Okiah
+**02/07/2019**
 
 This notebook serves a primer to webscrapping using beautiful soup, selenium , lxml and urllib. In this notebook I scrape 103 graded readers books from Guternberg website http://www.gutenberg.org/wiki/Children%27s_Instructional_Books_(Bookshelf).
 
