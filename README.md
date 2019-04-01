@@ -7,7 +7,7 @@
 
 **Contents:**
 
-1. ![Lexical Density Analysis](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/tree/master/LexicalDensityAnalysis)
+1. [Lexical Density Analysis](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/tree/master/LexicalDensityAnalysis)
 
 2. Normalized Vocabulary Size Score
 
