@@ -6,6 +6,15 @@
 ![](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/blob/master/NLP_Pipeline.JPG)
 
 **Contents:**
+1.Lexical Density Analysis
+2. Normalized Vocabulary Size Score
+3. Text Similarity, Stemmers and POS Tagging
+4. Web-Scrapping - IMDB Movie Reviews
+5. Distance Measures 
+6. Clustering - IMDB Movie Reviews
+7. Sentiment Analysis - IMDB Movie Reviews
+8. Topic Modeling - IMDB Movie Reviews
+
 
 **References:**
 
