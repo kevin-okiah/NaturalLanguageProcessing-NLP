@@ -9,15 +9,15 @@
 
 1. [Lexical Density Analysis](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/tree/master/LexicalDensityAnalysis)
 
-2. Normalized Vocabulary Size Score
+2. [Normalized Vocabulary Size Score](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/tree/master/NormalizedVocabularySizeScore)
 
-3. Text Similarity, Stemmers and POS Tagging
+3. [Text Similarity, Stemmers and POS Tagging](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/tree/master/TextSimilarityStemmersAndPOSTagger)
 
-4. Web-Scrapping - IMDB Movie Reviews
+4. [Web-Scrapping - IMDB Movie Reviews](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/tree/master/WebScrappingIMDBMovieReviews)
 
-5. Distance Measures 
+5. [Distance Measures](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/tree/master/DocumentSimilarity)
 
-6. Clustering - IMDB Movie Reviews
+6. [Clustering with PCA - IMDB Movie Reviews](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/tree/master/ClusteringIMDBMovieReviews)
 
 7. Sentiment Analysis - IMDB Movie Reviews
 
