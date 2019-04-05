@@ -1,7 +1,7 @@
 
 
 
-## Sentiment Analysis
+# Sentiment Analysis
 
 ### Author: Kevin Okiah
 
