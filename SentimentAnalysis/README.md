@@ -9,6 +9,8 @@
 
 ![](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/blob/master/SentimentAnalysis/sentiment.JPG)
 
+[Source](https://www.omicsonline.org/publication-images/business-economics-sentiment-analysis-process-9-337-g002.png)
+
 In this notebook, I explore Sentiment analysis(opinion mining) which is a NLP methodology for gauging opinions, feelings, Attitudes, or Emotions about a given subject from written or spoken language. I leverage TextBlob Module in python which compiles words labeled with sentiment score by Linguistic researchers based on their domain expertise. Sentiment of words can vary based on where it is in a sentence.
 
 Using Textblob each word or Chunk from a corpus is labeled in terms of polarity and subjectivity and many other labels.
