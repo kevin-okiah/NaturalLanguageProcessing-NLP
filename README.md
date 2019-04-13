@@ -21,7 +21,7 @@
 
 7. [Sentiment Analysis - IMDB Movie Reviews](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/tree/master/SentimentAnalysis)
 
-8. Topic Modeling - IMDB Movie Reviews
+8. [Topic Modeling - GutenBerg Books](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/tree/master/TopicModeling)
 
 
 **References:**
