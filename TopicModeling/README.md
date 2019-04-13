@@ -18,12 +18,13 @@ discrete data such as text corpora. LDA is a three-level hierarchical Bayesian m
 I follow an NLP pipleine approach to find books similar to `The Flag of My Country. Shikéyah Bidah Na'at'a'í; Navajo New World Readers 2` from [Children's Instructional Books (Bookshelf)](https://www.gutenberg.org/wiki/Children%27s_Instructional_Books_(Bookshelf)) to recommend to my son as shown in the flow chart below.
 ![](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/blob/master/TopicModeling/nlp_pipeline.JPG)
 
-Data Collection and preprocessing were performed on separated notebooks which can be found in the `Notebooks` Directory
+Below are links to notebooks for the seperate steps:
 * [**Data Acqusitions**](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/blob/master/TopicModeling/Notebooks/Scrape_GuternsbergBooks.ipynb)
 * [**Pre-processing and EDA**](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/blob/master/TopicModeling/Notebooks/TextCleaning_and_EDA.ipynb)
 * [**Modeling and Results**](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/blob/master/TopicModeling/TopicModeling_IMDB_ActionMoviesReviews-LDA.ipynb)
 
-## [Powerpoint Summary](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/blob/master/TopicModeling/Results/TopicModelingTermPresentation.pdf)
+Here is the link to the summary report [**Powerpoint Summary**](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/blob/master/TopicModeling/Results/TopicModelingTermPresentation.pdf) 
+
 
 
    
