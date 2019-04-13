@@ -5,7 +5,7 @@
 
 #### Author: Kevin Okiah
 
-**04/14/2019**
+**04/13/2019**
 
 In this notebook, I explore Topic modeling using "Latent Dirichlet allocation" (LDA). LDA is a generative probabilistic model for collections of
 discrete data such as text corpora. LDA is a three-level hierarchical Bayesian model,in which each item of a collection is modeled as a finite mixture over an underlying set of topics. Each topic is, in turn, modeled as an infinite mixture over an underlying set of topic probabilities. In the context of text modeling, the topic probabilities provide an explicit representation of a document. [Link](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
@@ -26,5 +26,5 @@ Data Collection and preprocessing were performed on separated notebooks which ca
 
 
    
-### Refernces
+### References
 * https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/
