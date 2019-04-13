@@ -21,7 +21,7 @@ I follow an NLP pipleine approach to find books similar to `The Flag of My Count
 Data Collection and preprocessing were performed on separated notebooks which can be found in the `Notebooks` Directory
 * **Data Acqusitions**  ->  /Notebooks/Scrape_GuternsbergBooks.ipynb
 * **Pre-processing and EDA** -> /Notebooks/TextCleaning_and_EDA.ipynb
-* **Modeling and Results** ->
+* [**Modeling and Results**](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/blob/master/TopicModeling/TopicModeling_IMDB_ActionMoviesReviews-LDA.ipynb)
 * **PowerpointSummary**
 
 
