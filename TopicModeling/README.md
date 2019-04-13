@@ -22,7 +22,7 @@ Data Collection and preprocessing were performed on separated notebooks which ca
 * [**Data Acqusitions**](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/blob/master/TopicModeling/Notebooks/Scrape_GuternsbergBooks.ipynb)
 * [**Pre-processing and EDA**](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/blob/master/TopicModeling/Notebooks/TextCleaning_and_EDA.ipynb)
 * [**Modeling and Results**](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/blob/master/TopicModeling/TopicModeling_IMDB_ActionMoviesReviews-LDA.ipynb)
-* **Powerpoint Summary**
+* [**Powerpoint Summary**](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/blob/master/TopicModeling/Results/TopicModelingTermPresentation.pdf)
 
 
    
