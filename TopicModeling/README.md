@@ -11,7 +11,7 @@ In this notebook, I explore Topic modeling using "Latent Dirichlet allocation" (
 discrete data such as text corpora. LDA is a three-level hierarchical Bayesian model,in which each item of a collection is modeled as a finite mixture over an underlying set of topics. Each topic is, in turn, modeled as an infinite mixture over an underlying set of topic probabilities. In the context of text modeling, the topic probabilities provide an explicit representation of a document. [Link](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
 
 #### Problem Statement
-My son read the book `The Flag of My Country. Shikéyah Bidah Na'at'a'í; Navajo New World Readers 2` from GutenBerg Books and readlly liked it. He asks me to find him a Similar book.
+My son read the book `The Flag of My Country. Shikéyah Bidah Na'at'a'í; Navajo New World Readers 2` from GutenBerg Books and really liked it. He asks me to find him a Similar book.
 
 ![](https://github.com/kevimwe/NaturalLanguageProcessing-NLP/blob/master/TopicModeling/topic_modeling.JPG)
 
